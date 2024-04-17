@@ -1,5 +1,5 @@
 ---
-title: null
+title: FR
 layout: page
 ---
 # Archétype QC  
