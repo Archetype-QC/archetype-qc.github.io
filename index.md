@@ -1,5 +1,5 @@
 ---
-title: null
+title: Accueil-Home
 layout: home
 ---
 # Archétype QC  
