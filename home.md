@@ -1,6 +1,6 @@
 ---
 title: null
-layout: home
+layout: page
 ---
 # Archetype QC  
 Archetype QC is an initiative of Québec's Ministère de l'Environnement, de la Lutte contre les Changements Climatiques, de la Faune et des Parcs (MELCCFP), Concordia University, École Polytechnique de Montréal and Hydro-Québec. Ultimately, the initiative aims to develop a virtual representation (models) of Quebec's residential, commercial and institutional building stock. These models will be used to simulate various scenarios for implementing energy efficiency and flexibility measures throughout Quebec.
