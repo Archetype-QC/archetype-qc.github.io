@@ -1,6 +1,7 @@
 ---
 title: Accueil-Home
 layout: home
+nav_exclude: false
 ---
 # Archétype QC  
 
