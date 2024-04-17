@@ -19,9 +19,9 @@ logo: "/assets/images/logo-test.png"
 # Supports true (default) or false
 heading_anchors: true
 
-# # Enable or disable the site search
-# # Supports true (default) or false
-# search_enabled: true
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: true
 
 # search:
 #   # Split pages into sections that can be searched individually
