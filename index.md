@@ -1,5 +1,5 @@
 ---
-title: null
+title: Modèle de parc de bâtiments du QC <br/><br/> QC building stock model
 layout: home
 ---
 # Archétype QC  
