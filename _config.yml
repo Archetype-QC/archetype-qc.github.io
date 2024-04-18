@@ -5,7 +5,7 @@ theme: just-the-docs
 url: https://archetype-qc.github.io
 
 aux_links:
-  Github: https://github.com/Archetype-QC
+  GitHub: https://github.com/Archetype-QC
 
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/logo-test.png"
