@@ -12,9 +12,9 @@ Archetype QC is organized around 3 dimensions:
 - A platform for exploiting the above 2 libraries to address needs, mainly related to assessing the impact of implementing technologies or to forecasting future energy demand.  
 
 To reflect this structure, this project is made up of 3 repositories on GitHub:  
-- [data](https://github.com/Archetype-QC/data): repository for data library development;  
-- [models](https://github.com/Archetype-QC/models): repository for model library development;  
-- [platform](https://github.com/Archetype-QC/platform): repository for platform development.  
+- [Donnees-Data](https://github.com/Archetype-QC/Donnees-Data): repository for data library development;  
+- [Modeles-Models](https://github.com/Archetype-QC/Modeles-Models): repository for model library development;  
+- [Plateforme-Platform](https://github.com/Archetype-QC/Plateforme-Platform): repository for platform development.  
   
 The initiative is open to all contributions from external players, in particular:  
 - Donations of data representative of the Quebec building stock (residential, commercial or institutional);  

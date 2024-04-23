@@ -12,9 +12,9 @@ Archétype QC est agencé autour de 3 dimensions:
 - Une plateforme qui permet d'exploiter les 2 librairies précédentes pour adresser les besoins, principalement reliés à l'évaluation des impacts de l'implantation de technologies ou à la prévision de la demande énergétique dans le futur.  
   
 Afin de refléter cette structure, ce projet est composé de 3 dépôts sur GitHub:  
-- [data](https://github.com/Archetype-QC/data): dépôt concernant le développement de la librairie de données;  
-- [models](https://github.com/Archetype-QC/models): dépôt concernant le développement de la librairie de modèles;  
-- [platform](https://github.com/Archetype-QC/platform): dépôt concernant le développement de la plateforme.  
+- [Donnees-Data](https://github.com/Archetype-QC/Donnees-Data): dépôt concernant le développement de la librairie de données;  
+- [Modeles-Models](https://github.com/Archetype-QC/Modeles-Models): dépôt concernant le développement de la librairie de modèles;  
+- [Plateforme-Platform](https://github.com/Archetype-QC/Plateforme-Platform): dépôt concernant le développement de la plateforme.  
   
 L'initiative est ouverte à toutes contributions provenant d'acteurs externes, notamment:  
 - Dons de données représentatives du parc de bâtiments québécois (résidentiel, commercial ou institutionnel);  
