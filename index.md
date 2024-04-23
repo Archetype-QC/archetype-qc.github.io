@@ -5,10 +5,8 @@ nav_exclude: false
 ---
 # Archétype QC  
   
-## Modèles pour simuler le parc de bâtiments du Québec  🏴󠁣󠁡󠁱󠁣󠁿 🇨🇦 
-  
+### Modèles pour simuler le parc de bâtiments du Québec  
+### Models to simulate the building stock in Québec
+🏴󠁣󠁡󠁱󠁣󠁿 🇨🇦 
   
 ![](assets/images/TestImageBuildingStockModel.png)  
-  
-  
-## Models to simulate the building stock in Québec  🏴󠁣󠁡󠁱󠁣󠁿 🇨🇦   
